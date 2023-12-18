@@ -56,7 +56,7 @@ Example 3:
 
 # Second Challenge
 
-## Convert integer to roman numerals
+## Check if the number is palindrome or not
 
 Given an integer _x_, return true if x is a **palindrome** , and false otherwise.
 
